@@ -20,7 +20,7 @@ title                    : "edwardcodes"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Edward Praveen"
-description              : "Making Decisions based on Data."
+description              : "A blog with lots of data and code related to Machine Learning. A Numerist who loves deep work!"
 url                      : &url 'https://edwardcodes.github.io' # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : 'edwardcodes/edwardcodes.github.io' # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
