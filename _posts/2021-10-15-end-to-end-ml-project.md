@@ -1,11 +1,11 @@
 ---
 title:  "Chapter-2 End-to-End Machine Learning"
-permalink: /posts/mlbook/
+permalink: /posts/mlchapter2/
 excerpt: "This covers the chapter-2 from Hands-on Machine Learning with Scikit-learn and Tensorflow book. It discusses from framing the problem to deploying the model in production"
 last_modified_at: 2021-10-15T16:00:11-04:00
 header:
-  image: assets/images/books/books.jpg
-  teaser: assets/images/books/books.jpg
+  image: assets/images/books.jpg
+  teaser: assets/images/books.jpg
 categories:
 - tutorial
 tags:
