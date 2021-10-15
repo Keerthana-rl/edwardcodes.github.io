@@ -1,6 +1,6 @@
 ---
 title:  "Chapter-1 Introduction to Machine Learning"
-permalink: /posts/mlbook-1/
+permalink: /posts/mlchapter1/
 excerpt: "This covers the chapter-1 from Hands-on Machine Learning with Scikit-learn and Tensorflow book"
 last_modified_at: 2021-10-10T16:00:11-04:00
 header:
