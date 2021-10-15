@@ -28,6 +28,7 @@ In Machine Learning, it automatically learns the new patterns by comparing to th
 **Data Mining** - Discover patterns that are not immediately apparent in large amount of data by applying ML techniques.
 
 In general, ML is great for,
+
 - Problems for which the current solutions require a long list of rules
 - Complex problems that cannot be solved using traditional approaches
 - Fluctuating new environments
